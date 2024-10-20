@@ -104,7 +104,7 @@ echo widget("Bootstrap Theme - Display - Posted By Snippet");
         </div>
     <?php } ?>
 </div>
-
+```
 ## Step 4: Save Changes
 After updating the code:
 
